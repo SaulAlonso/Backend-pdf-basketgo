@@ -1,9 +1,0 @@
-package es.urjc.ssii.Practica2;
-
-public class Reproduccion {
-	
-	private Date fecha;
-	private Usuario usuario;
-	private Pelicula pelicula;
-	
-}

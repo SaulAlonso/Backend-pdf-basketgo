@@ -1,9 +1,0 @@
-package es.urjc.ssii.Practica2;
-
-import org.springframework.data.repository.CrudRepository;
-
-
-public class UsuarioRepository extends CrudRepository<Usuario,Long> {
-
-	List<Usuario> findByNombre(String Nombre);
-}

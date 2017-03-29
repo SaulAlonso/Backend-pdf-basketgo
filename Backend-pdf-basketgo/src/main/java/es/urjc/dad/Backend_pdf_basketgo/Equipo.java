@@ -80,4 +80,11 @@ public class Equipo {
 		this.listaJugadores = listaJugadores;
 	}
 
+	@Override
+	public String toString() {
+		return "Equipo [fichaEquipo=" + fichaEquipo + ", nombreEquipo=" + nombreEquipo + ", puntuacion="
+				+ puntuacion + ", numeroDerrotas=" + numeroDerrotas + ", numeroVictorias=" + numeroVictorias
+				+ ", listaJugadores=" + listaJugadores + "]";
+	}
+
 }

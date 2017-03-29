@@ -54,6 +54,12 @@ public class Clasificacion {
 	public void setNombreClasificacion(String nombreClasificacion) {
 		this.nombreClasificacion = nombreClasificacion;
 	}
+
+	@Override
+	public String toString() {
+		return "Clasificacion [nombreClasificacion=" + nombreClasificacion + ", listaClasificacion="
+				+ listaClasificacion + "]";
+	}
 	
 	
 }

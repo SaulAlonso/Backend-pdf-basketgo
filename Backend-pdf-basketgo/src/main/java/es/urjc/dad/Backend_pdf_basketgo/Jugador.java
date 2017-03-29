@@ -53,5 +53,11 @@ public class Jugador {
 		this.edad = edad;
 	}
 
+	@Override
+	public String toString() {
+		return "Jugador [numeroFicha=" + numeroFicha + ", nombre=" + nombre + ", altura=" + altura
+				+ ", edad=" + edad + "]";
+	}
+
 }
 

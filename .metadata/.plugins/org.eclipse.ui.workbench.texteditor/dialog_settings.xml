@@ -2,16 +2,24 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="logo" key="selection"/>
+		<item value="equipo" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="clasificacion"/>
+			<item value="Clasificacion"/>
+			<item value="clasificacionService"/>
+			<item value="l"/>
 			<item value="&lt;link rel=&quot;stylesheet&quot; href=&quot;css/style.css&quot; /&gt;"/>
 			<item value="logo"/>
 		</list>
 		<list key="replacehistory">
+			<item value="equipo"/>
+			<item value="liga"/>
+			<item value="Liga"/>
+			<item value="ligaService"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
