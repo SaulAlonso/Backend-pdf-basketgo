@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy source folder &apos;resources&apos; to &apos;Practica2-SI&apos;&#x0D;&#x0A;- Original project: &apos;holamundolog4j&apos;&#x0D;&#x0A;- Destination element: &apos;Practica2-SI&apos;&#x0D;&#x0A;- Original element: &apos;holamundolog4j/src/main/resources&apos;" description="Copy source folder" element1="/src\/main\/resources" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="1" stamp="1490198475106" target="/Practica2-SI" version="1.0"/>
+</session>

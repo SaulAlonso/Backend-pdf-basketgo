@@ -1,0 +1,9 @@
+package es.urjc.ssii.Practica2;
+
+import org.springframework.data.repository.CrudRepository;
+
+
+public interface ReproduccionRepository extends CrudRepository<Reproduccion,Long>{
+
+	
+}

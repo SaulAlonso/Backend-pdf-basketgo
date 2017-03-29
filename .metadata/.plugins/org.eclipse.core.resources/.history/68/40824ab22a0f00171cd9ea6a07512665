@@ -1,0 +1,10 @@
+package es.urjc.ssii.Practica2;
+
+import org.springframework.data.repository.CrudRepository;
+
+import es.urjc.ssii.ejemplospringdatarest.modelo.Pelicula;
+
+public class UsuarioRepository extends CrudRepository<Usuario,Long> {
+
+	List<Usuario> findByNombre(String Nombre);
+}
