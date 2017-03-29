@@ -1,8 +1,0 @@
-build.all.configs.enabled=false
-build.proj.ref.configs.enabled=false
-eclipse.preferences.version=1
-environment/workspace/PATH/delimiter=;
-environment/workspace/PATH/operation=replace
-environment/workspace/PATH/value=C\:/Archivos de programa/Java/jdk1.8.0_05/jre/bin/server;C\:/Archivos de programa/Java/jdk1.8.0_05/jre/bin;C\:/Archivos de programa/Java/jdk1.8.0_05/jre/lib/amd64;C\:\\ProgramData\\Oracle\\Java\\javapath;C\:\\Program Files\\Haskell\\bin;C\:\\Program Files\\Haskell Platform\\7.10.3\\lib\\extralibs\\bin;C\:\\Program Files\\Haskell Platform\\7.10.3\\bin;C\:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;c\:\\Program Files (x86)\\ATI Technologies\\ATI.ACE\\Core-Static;C\:\\Program Files (x86)\\AMD\\ATI.ACE\\Core-Static;C\:\\Archivos de programa\\Java\\jdk1.8.0_05\\bin;C\:\\Program Files (x86)\\Skype\\Phone\\;C\:\\Program Files (x86)\\QuickTime\\QTSystem\\;C\:\\Program Files\\Haskell Platform\\7.10.3\\mingw\\bin;C\:\\Program Files (x86)\\Quest Software\\vWorkspace Client\\pntsc.exe;C\:\\Users\\Sa\u00FAl\\AppData\\Roaming\\cabal\\bin;;C\:\\Windows\\system32;
-environment/workspace/append=true
-environment/workspace/appendContributed=true
