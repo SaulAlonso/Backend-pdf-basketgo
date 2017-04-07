@@ -17,4 +17,8 @@ public class LigaService {
 	public Liga getLiga(long id){
 		return repositorio.findOne(id);
 	}
+	
+	public List<Liga> getLigaNombre(String nombre){
+		return repositorio.findByNombre(nombre);
+	}
 }

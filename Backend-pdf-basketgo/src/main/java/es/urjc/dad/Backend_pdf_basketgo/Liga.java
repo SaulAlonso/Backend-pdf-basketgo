@@ -37,6 +37,10 @@ public class Liga {
 		this.clasificacion = clasificacion;
 	}
 	
+	public Long getId(){
+		return id;
+	}
+	
 	public String getNombre(){
 		return nombre;
 	}
