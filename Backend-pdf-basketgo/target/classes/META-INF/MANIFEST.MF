@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Implementation-Title: Backend-pdf-basketgo
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: Saￃﾺl
+Built-By: Maqui07
 Implementation-Vendor-Id: es.urjc.dad
 Build-Jdk: 1.8.0_121
 Created-By: Maven Integration for Eclipse
