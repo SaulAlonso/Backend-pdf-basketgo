@@ -112,8 +112,8 @@ public class LigaRestController {
 		    	
 		    	// DefaultEndpointsProtocol=https;AccountName=ficherospdf;AccountKey=j06O/hWQZnvc4va+B9d+ujUoCCTL6JHGZfNmhzAGMVm9r+25xh7jaeluKYyN/WTp1yqpYBW2/K6MeBNcuJEVsw==;EndpointSuffix=core.windows.net
 		    	
-		    	String storageKey="j06O/hWQZnvc4va+B9d+ujUoCCTL6JHGZfNmhzAGMVm9r+25xh7jaeluKYyN/WTp1yqpYBW2/K6MeBNcuJEVsw==;https;AccountName=ficherospdf;AccountKey=j06O/hWQZnvc4va+B9d+ujUoCCTL6JHGZfNmhzAGMVm9r+25xh7jaeluKYyN/WTp1yqpYBW2/K6MeBNcuJEVsw==";
-		    	String encodedKey=Base64.encode(storageKey.getBytes());
+		    /*	String storageKey="j06O/hWQZnvc4va+B9d+ujUoCCTL6JHGZfNmhzAGMVm9r+25xh7jaeluKYyN/WTp1yqpYBW2/K6MeBNcuJEVsw==;https;AccountName=ficherospdf;AccountKey=j06O/hWQZnvc4va+B9d+ujUoCCTL6JHGZfNmhzAGMVm9r+25xh7jaeluKYyN/WTp1yqpYBW2/K6MeBNcuJEVsw==";
+		    	String encodedKey=Base64.encode(storageKey.getBytes());*/
 		    	
 		    	String storageConnectionString="DefaultEndpointsProtocol=https;" +
 						"AccountName=ficherospdf;" +
